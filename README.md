@@ -27,12 +27,7 @@ Follow these steps to set up and run Phylex Chatbot on your local environment:
     git clone https://github.com/faminmubin/Phylex-Chatbot.git
     ```
 
-2. **Navigate to the project directory:**
-    ```bash
-    cd phylex-chatbot
-    ```
-
-3. **Install the additional required dependencies:**
+2. **Install the additional required dependencies:**
    - Install `difflib`:
      ```bash
      pip install difflib
@@ -56,10 +51,10 @@ Follow these steps to set up and run Phylex Chatbot on your local environment:
 
 4. **Run the application:**
     ```bash
-    python phylex_chatbot.py
+    python phylex-chatbot.py
     ```
 
-    Note: Replace `phylex_chatbot.py` with the actual filename of your main chatbot script.
+   
 
 5. **Interact with Phylex Chatbot using the provided functionalities.**
 
